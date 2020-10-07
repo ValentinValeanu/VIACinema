@@ -1,0 +1,13 @@
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\DataModel.dll.config
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\DataModel.dll
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\DataModel.pdb
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\EntityFramework.dll
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\EntityFramework.xml
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.dll
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.pdb
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.Migrations.Initial.resources
+F:\Val\Informatica\VIA\DNP\VIACinema\VIACinema\DataModel\obj\Debug\DataModel.csproj.GenerateResource.cache
